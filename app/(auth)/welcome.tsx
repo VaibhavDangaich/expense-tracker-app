@@ -5,7 +5,7 @@ import ScreenWrapper from '@/components/ScreenWrapper'
 const Welcome = () => {
   return (
     <ScreenWrapper>
-      <Text style={{color:'white'}} >welcome</Text>
+      <Text style={{color:'white'}}>welcome!!</Text>
     </ScreenWrapper>
   )
 }
