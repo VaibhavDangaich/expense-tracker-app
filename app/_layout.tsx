@@ -4,7 +4,8 @@ import { Stack } from 'expo-router'
 import { HeaderShownContext } from '@react-navigation/elements'
 
 const _layout = () => {
-  return (
+    return (
+      
       <Stack screenOptions={{headerShown:false}}>
           
     </Stack>
